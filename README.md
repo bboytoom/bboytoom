@@ -4,6 +4,6 @@ Mi nombre es Tomàs Rosas, soy ingeniero de software
 
 ## Habilidades
 
-* Php
-* Laravel
+* Python (Flask)
+* Php (Laravel)
 * Aws
